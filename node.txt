@@ -48,4 +48,5 @@ vmess://eyJhZGQiOiJ3d3cuaHp5NS53aW4iLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiODhhMTYw
 #高级直播专线137
 vmess://eyJhZGQiOiJ3d3cuaHVhbmc0NTQ1LnNwYWNlIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6Ijk1NmE2Y2UzLTRkMmMtNDBlNy04OTZlLThhMzk0ZTE3ODZmNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLpq5jnuqfnm7Tmkq3kuJPnur8xMzciLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
-
+#高级直播专线189
+trojan://44411@www.hzy04.icu:443?peer=#%E6%9C%A8%E9%A9%AC189
