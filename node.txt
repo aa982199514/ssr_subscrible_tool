@@ -51,8 +51,8 @@ vmess://eyJhZGQiOiJ3d3cuaHp5NS53aW4iLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiODhhMTYw
 #高级直播专线137
 vmess://eyJhZGQiOiJ3d3cuaHVhbmc0NTQ1LnNwYWNlIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6Ijk1NmE2Y2UzLTRkMmMtNDBlNy04OTZlLThhMzk0ZTE3ODZmNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLpq5jnuqfnm7Tmkq3kuJPnur8xMzciLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
-#高级直播专线189
-trojan://44411@www.hzy04.icu:443?peer=#%E6%9C%A8%E9%A9%AC189
+#高级直播专线241
+trojan://24222@47.89.15.241:443?allowInsecure=1&peer=#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BF241
 
 
 #木马高级直播专线152
@@ -67,5 +67,4 @@ trojan://67667@www.xinxinaa.icu:443?allowInsecure=1#%E6%9C%A8%E9%A9%AC%E9%AB%98%
 trojan://55544@www.hzy03.icu:443#%E6%9C%A8%E9%A9%AC%E9%AB%98%E7%B4%9A%E7%9B%B4%E6%92%AD%E5%B0%88%E7%B7%9A%20180
 
 
-#木马高级直播专线48
-trojan://14477@www.hzy5.top:443?allowInsecure=1#%E6%9C%A8%E9%A6%AC%E9%AB%98%E7%B4%9A%E7%9B%B4%E6%92%AD%E5%B0%88%E7%B7%9A%2048
+
