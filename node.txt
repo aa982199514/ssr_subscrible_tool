@@ -1,6 +1,15 @@
 #高级直播专线木马188
 trojan://11144@www.xinxinaa.icu:443?allowInsecure=1#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BF%E6%9C%A8%E9%A9%AC188
 
+#高级直播专线v2r189
+vmess://YXV0bzozNmNjMDQxMy0wNjIwLTRmZjctYjkyZC02Yjk5YmQ2YzkxZDNAd3d3Lmh6eTA0LmljdToxNTU3OA?remarks=%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BFv2r189&obfs=none
+
+#高级直播专线v2r180
+vmess://YXV0bzozNmNjMDQxMy0wNjIwLTRmZjctYjkyZC02Yjk5YmQ2YzkxZDNANDcuNTIuMjEuMTgwOjE3NDQ3?remarks=%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BFv2r180&obfs=none
+
+#高级直播专线ss180
+ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6cHdkQDQ3LjUyLjIxLjE4MDoyMDIwMA#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BFss180
+
 #高级直播专线v2r188
 vmess://YXV0bzozNmNjMDQxMy0wNjIwLTRmZjctYjkyZC02Yjk5YmQ2YzkxZDNANDcuNTYuMTc4LjE4ODoxMTE3NQ?remarks=%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BF%20v2r188&obfs=none
 
