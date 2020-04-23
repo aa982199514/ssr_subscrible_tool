@@ -1,11 +1,11 @@
-#高级直播专线Sne188
+#高级直播专线Snell48
+snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsczBpYlVva2V3QVBOaUk1@47.56.183.48:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BFSnell48
+
+#高级直播专线Snell188
 snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3WHlHVFVXRmx2SXlvbTly@www.smyun08.top:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BFsnell188
 
 #高级直播专线Snell63
 snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQWWo5ZHF4WnRBZnAyb1Q2@47.56.211.63:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BFsnell63
-
-#高级直播专线Snell48
-snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SkF5Mm5OajBHWXJ6WWxM@47.56.183.48:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BFSnell48
 
 #高级直播专线Snell118
 snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiM3hTSGFSbzRnb2k2QVJI@47.52.148.118:13254?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BFsnell118
