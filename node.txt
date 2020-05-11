@@ -1,3 +1,9 @@
+#直播专线木马189
+trojan://4548@www.zhanan03.site:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan189
+
+#直播专线木马170
+trojan://4779@www.zhanan02.win:443?allowInsecure=1#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFtrojan170
+
 #高级直播专线Snell137
 snell://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRbmc4MGVONHdiRTlPcm5D@47.91.215.137:13333?plugin=obfs-local;obfs=tls;obfs-host=;obfs-uri=/#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BFsnell137
 
@@ -28,12 +34,6 @@ trojan://10104@www.smyun08.top:443?allowInsecure=1#%E9%AB%98%E7%BA%A7%E7%9B%B4%E
 #高级直播专线木马63
 trojan://44777@www.zhanan.men:443#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BF%E6%9C%A8%E9%A9%AC63
 
-#高级直播专线木马170
-trojan://27777@47.91.252.170:443#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BF%E6%9C%A8%E9%A9%AC170
-
-#高级直播专线木马189
-trojan://14111@47.56.170.189:443?allowInsecure=1#%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BF%E6%9C%A8%E9%A9%AC189
-
 #高级直播专线v2r241
 vmess://YXV0bzpkZDhkOWYxMC03MGQxLTQ3NzEtYTQ3Zi0xMmI2NmYwZTNiYWRANDcuODkuMTUuMjQxOjE1MTI1?remarks=%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BF%20v2r241&obfsParam=www.baidu.com&obfs=http
 
@@ -43,14 +43,8 @@ vmess://YXV0bzpjZDEyODc4Ni0yMjMzLTQwMWUtYTdhNS1hM2EyODM0NmZmNGRANDcuNTIuMjEuMTgw
 #高级直播专线v2r48
 vmess://YXV0bzozNmNjMDQxMy0wNjIwLTRmZjctYjkyZC02Yjk5YmQ2YzkxZDNANDcuNTYuMTgzLjQ4OjMzNTU4?remarks=%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BF%20v2r48&obfs=none
 
-#高级直播专线v2r189
-vmess://YXV0bzozNmNjMDQxMy0wNjIwLTRmZjctYjkyZC02Yjk5YmQ2YzkxZDNAd3d3Lmh6eTA0LmljdToxNTU3OA?remarks=%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BFv2r189&obfs=none
-
 #高级直播专线v2r118
 vmess://YXV0bzozNmNjMDQxMy0wNjIwLTRmZjctYjkyZC02Yjk5YmQ2YzkxZDNANDcuNTIuMTQ4LjExODoyNDQyMg?remarks=%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BF%20v2r118&obfs=none
-
-#高级直播专线v2r170
-vmess://YXV0bzozNmNjMDQxMy0wNjIwLTRmZjctYjkyZC02Yjk5YmQ2YzkxZDNANDcuOTEuMjUyLjE3MDoxNTU0NA?remarks=%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BF%20v2r170&obfs=none
 
 #高级直播专线v2r146
 vmess://YXV0bzplZWJkNDhlMy1hNmUwLTRjYjktYWI1MS1iMjFhYWE3ZTVlYjlANDcuNTYuMTI5LjE0Njo0ODYxMg?remarks=%E9%AB%98%E7%BA%A7%E7%9B%B4%E6%92%AD%E4%B8%93%E7%BA%BFv2r146&obfs=none
