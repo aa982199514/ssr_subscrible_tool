@@ -44,13 +44,6 @@ trojan://neOzD1RG69SWvDXA@www.zx02.top:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%
 #腾182
 trojan://zPGsdLAujCZC46so@www.zx04.men:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E8%85%BE182
 
-#腾177
-trojan://7y2iEuVl7tMDDYyt@www.zx08.party:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E8%85%BE177
-#腾72
-trojan://puM4qEFGCAVVoLlJ@www.zhanan07.site:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E8%85%BE72
-#腾79
-trojan://8MOjagtgatC3kuhR@www.zx03.bid:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E8%85%BE79
-#腾186
-trojan://itACVF4FlX1D0dVo@www.zx10.top:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E8%85%BE186
+
   
  
