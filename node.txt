@@ -19,11 +19,6 @@ ssr://MTE3LjE4LjEzLjI0OTozMjM5ODphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjpNelExTmpjLz9vYm
 #66yun190
 ssr://MTE3LjE4LjEzLjE5MDo4ODgzOmF1dGhfY2hhaW5fYTpub25lOnBsYWluOk1qTTBOVFEvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01NXUwNXBLdDU3cV82TGV2TVRrdyZncm91cD0
 
-#野100
-trojan://aTmBLcFzZquhAbMY@www.zhanan.men:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%87%8E100
-#野101
-trojan://djdJFVJKv1Dj9hhS@www.smyun08.top:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%87%8E101
-
 #花192
 trojan://YNQSLHS9JNsKY9Xp@www.zhen02.men:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E8%8A%B1192
 #花152
@@ -31,14 +26,9 @@ trojan://VJLuqTY4Ja5fvOUT@www.zhen02.bid:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%A
 
 #野238
 trojan://b0732fMwPtsEY5oA@www.zhen01.top:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E9%87%8E238
-#微108
-trojan://vwawb4SoNNosTJCy@www.zhanan15.online:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFw108
 #C89
 trojan://NBvTSWbZ3JM7hnan@www.zhanan14.icu:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFC89
-#腾204
-trojan://atUyagNroaFnxND7@www.zx06.top:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E8%85%BE204
-#腾150
-trojan://L1qNeGrY58ApwrRA@www.zx07.top:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF%E8%85%BE150
-
+#微108
+trojan://vwawb4SoNNosTJCy@www.zhanan15.online:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AFw108
 
  
