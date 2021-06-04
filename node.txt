@@ -5,13 +5,7 @@ trojan://a12345678@www.zx14.loan:443#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF130
 #3腾198
 trojan://a12345678@www.zhanan19.men:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF198
 #3腾161
-trojan://a12345678@www.zhanan17.men:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF161
-
-#1腾102
-trojan://12345678@www.zhen01.cyou:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF102
-#1腾217
-trojan://E4vsUSHNtbSMdcMU@www.zhen01.top:443#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF217
-
+trojan://a147258@www.zhanan17.men:3355#%E7%9B%B4%E6%92%AD%E7%BA%BF%E8%B7%AF161
 #1腾146
 trojan://faSWLYS42Aj4wrKq@www.zx05.loan:443#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF146
 #1腾140
