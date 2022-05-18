@@ -1,4 +1,7 @@
 
+vless://YXV0bzo2ZTMyZjE3MC00ODIzLTQ3Y2UtYjYwNC1iOGIxZGU1NWM0MGFAd3d3Lnp4NS5jbHViOjM2NDQ1?remarks=4%E9%A6%99%E6%B8%AF%E7%B7%9A%E8%B7%AF192&path=/159f0c42ff/&obfs=websocket&tls=1
+vless://YXV0bzo4ZDE3NWZkYy04YjBmLTQ5NDgtOTkxZC1hYzdmYzA0ZWEwNTVAd3d3Lnp4MTkuY2x1YjozODg2Nw?remarks=3%E9%A6%99%E6%B8%AF%E7%B7%9A%E8%B7%AF187&path=/e2a5b92c948a45/&obfs=websocket&tls=1
+
 #腾
 trojan://nn2222777@www.zx522.online:14436#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF241
 trojan://vv777733@www.zx522.info:17336#%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF181
