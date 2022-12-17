@@ -14,8 +14,8 @@ vless://YXV0bzo4NGQ0M2YxYy0yMjVlLTQ4N2QtYmZiYi1kNjJiM2IzYTBiYmZAd3d3Lnp6eHgxMy50
 #222
 ssr://MTAzLjIwMC4xMTIuMjIyOjQ3Nzg4OmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpNak0wTlRVME13Lz9yZW1hcmtzPVNPbW1tZWE0ci1lNnYtaTNyekl5TWcmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
 
-水121
-#vmess://YXV0bzo3NDVmMmRjYi1mMWEwLTRmYzYtODA3My0yNDc5NDFiODJjNDhANDUuMTEuMTg1LjEyMTo0MjcyNA?remarks=S%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF121&obfsParam=www.baidu.com&obfs=http&alterId=0
+#水121
+vmess://YXV0bzo3NDVmMmRjYi1mMWEwLTRmYzYtODA3My0yNDc5NDFiODJjNDhANDUuMTEuMTg1LjEyMTo0MjcyNA?remarks=S%E9%A6%99%E6%B8%AF%E7%BA%BF%E8%B7%AF121&obfsParam=www.baidu.com&obfs=http&alterId=0
 
 
 #
